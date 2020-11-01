@@ -1,0 +1,52 @@
+header{
+	background-color: rgb(23,139,255);
+	color: white;
+	text-align: center;
+	padding: 0.1px;
+}
+.fistone{
+	width: 170px;
+	margin-top: -55px;
+}
+#blue{
+	color: rgb(23,139,255);
+}
+.red{
+	color: red;
+}
+.head1 a{
+    text-decoration: none;
+    color: black;
+    padding-right: 8px;
+}
+.head1{
+	padding-left: 20px;
+	float: right;
+}
+.table, td{
+	border: 1px rgb(23,139,255) solid;
+	padding: 2px;
+}
+.head2{
+	background-color: rgb(23,139,255);
+	color: white; 
+}
+table{
+	border-collapse: collapse;
+}
+.leftside{
+	position: absolute;
+	width: 800px;
+}
+.rightside {
+	position: absolute;
+	width: 430px;
+	margin-left: 820px;
+}
+.thing{
+	padding: 50px;
+}
+#fg{
+	padding-left: 5px;
+	width: 420px;
+}
